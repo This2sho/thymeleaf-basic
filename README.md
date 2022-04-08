@@ -1,2 +1,2 @@
 # thymeleaf-basic
-thymeleaf practice Repository
+thymeleaf basic practice Repository
